@@ -1,2 +1,2 @@
-# GreekWeek
-Compete with your friends for the title of "Best Party on Mount Olympus"
+# Greek Week
+Compete with your friends for the title of "Best Party on Mount Olympus".
