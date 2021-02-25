@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="108b5fcc-eb2f-4829-9a47-fbe66f494cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Beans/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Controllers/PlayerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/DAOs/PlayerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Services/PlayerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBatch/GreekWeek/Beans/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBatch/GreekWeek/Controllers/PlayerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBatch/GreekWeek/DAOs/PlayerDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBatch/GreekWeek/GreekWeekApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/GreekWeekApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBatch/GreekWeek/Services/PlayerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Beans/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Beans/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Beans/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/TheBrodieBunch/GreekWeek/Beans/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +28,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613804139535</updated>
       <workItem from="1613804148856" duration="263000" />
+      <workItem from="1614281697446" duration="1467000" />
     </task>
     <servers />
   </component>
@@ -70,5 +54,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
