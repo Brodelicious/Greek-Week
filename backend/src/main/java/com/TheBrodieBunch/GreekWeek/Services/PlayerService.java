@@ -16,7 +16,7 @@ public class PlayerService{
   }
 
   // Create
-  public Integer create(Player player){
+  public Integer add(Player player){
     return playerDAO.save(player).getId();
   }
   

@@ -42,7 +42,6 @@ public class GroupService{
   }
 
   public String generateName(){
-    String name;
     Random random = new Random();
     String letter_one = letters.get(random.nextInt(24));
     String letter_two = letters.get(random.nextInt(24));
@@ -52,7 +51,7 @@ public class GroupService{
   }
    
   // Create
-  public Integer create(Group group){
+  public Integer add(Group group){
     return groupDAO.save(group).getId();
   }
 
