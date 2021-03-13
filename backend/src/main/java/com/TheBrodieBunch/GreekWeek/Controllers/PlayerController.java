@@ -10,7 +10,9 @@ import com.TheBrodieBunch.GreekWeek.Beans.Player;
 import java.util.List;
 
 
-@Controller
+@RestController
+@CrossOrigin(origins="http://localhost:4200", allowCredentials="true")
+@RequestMapping(path="/players")
 public class PlayerController{
   private PlayerService playerServ;
 
